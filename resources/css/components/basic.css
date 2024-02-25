@@ -1,0 +1,9 @@
+ul{
+    list-style: disc !important;
+    margin-left: 20px !important;
+}
+
+li{
+    display: list-item;
+    margin-bottom: 10px;
+}
